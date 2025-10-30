@@ -3,6 +3,7 @@
 
   Parte desarrollada por Fedi Mikli
 
-
+PARTE DESARROLLADA POR CRISTOPHER ORELLANA
+  
   Parte Desarrollada por Juan Sebastian Moreno Panana
 
